@@ -1,4 +1,5 @@
-# Tic Tac Toe
+# To run Tic Tac Toe bots: Choose any mix of my 3 bots to play using the following syntax...
+## 'python runner.py bot_one.py bot_two.py'
 
 ## with Python
 
