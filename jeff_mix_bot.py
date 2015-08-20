@@ -20,7 +20,6 @@ debug_print(third_row)
 # Outputting the coordinates of your board
 
 
-
 def rand_choice():
     choice = [0, 1, 2]
     rand1 = random.choice(choice)
@@ -44,11 +43,9 @@ def rand_choice():
         rand_choice()
 
 
-
 if second_row[1] == "_":
     print("1 1")
 elif third_row[2] == "_":
     print("2 2")
 else:
     rand_choice()
-
